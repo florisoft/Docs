@@ -1,0 +1,1 @@
+Bepaalt of dit sorteringskenmerk verplicht is voor ingestelde Webservice Clients, mits niet aangegeven worden partijen met deze artikelgroep voor de desbetreffende webservices daardoor op 'niet zichtbaar voor webshop' gezet

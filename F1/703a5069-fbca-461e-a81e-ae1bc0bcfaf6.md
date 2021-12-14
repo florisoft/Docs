@@ -1,0 +1,1 @@
+Een celsticker per pickorder waar ook de debiteur van de pickorder op staat, defa

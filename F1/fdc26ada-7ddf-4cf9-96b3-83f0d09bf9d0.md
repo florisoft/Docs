@@ -1,0 +1,1 @@
+Bij gebruik van systeeminstelling EDISORTERING wordt indeni niet aangevinkt deze sortering verstuurd in het EKT en FLOWAV bericht. Indien je deze vink aanvinkt dan wordt deze sortering niet gestuurd, alsof er niks ingevuld is als sortering. Aangeraden wordt om deze aan te vinken bij eigen verzonnen sorteringen.

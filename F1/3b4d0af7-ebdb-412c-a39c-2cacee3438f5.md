@@ -1,0 +1,1 @@
+Het gekozen segment wordt gebruikt als EFactuurBarcode in de HPartij, standaard is FS+EFACTBARC

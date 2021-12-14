@@ -1,0 +1,1 @@
+Deze handlings zijn gekoppeld aan partijen in de voorraad, en kunnen hier een default instelling krijgen.

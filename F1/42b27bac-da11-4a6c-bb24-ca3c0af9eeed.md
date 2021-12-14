@@ -1,0 +1,1 @@
+Opent een Filterscherm welke regels uit het scherm kan wegfilteren bij gebruik, op basis van een reeks instelbare condities.

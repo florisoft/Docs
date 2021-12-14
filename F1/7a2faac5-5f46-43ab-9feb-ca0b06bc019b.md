@@ -1,0 +1,1 @@
+Mits aan, wordt de RESERVATION-waarde meegestuurd vanaf de Server, gehanteerd (mits true) om de webshopzichtbaarheid (X-kolom) uit te zetten.

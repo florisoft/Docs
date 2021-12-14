@@ -1,0 +1,1 @@
+Dit is een variabel kostentype, welke via de tabel Kosten types in de constanten kan worden aangemaakt. Dit wordt opgeslagen per stap in het Prijsconfiguratie-log. De Kostenprofiel-stap kan hier extra functionaliteit aan ontlenen.

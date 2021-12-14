@@ -1,0 +1,1 @@
+De E omschrijving van deze productgroep. Deze zie je terug in de voorraad in de tree, maar ook op de webshop voor een E klant.

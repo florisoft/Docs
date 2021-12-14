@@ -1,0 +1,1 @@
+Indien een van de vinken is aangevinkt zal deze functie van kracht zijn. Mocht het ordernummer van een factuur een vertrekdag zijn (yyMMdd), dan wordt a.d.h.v. het ordernummer gecontroleerd of deze overeenkomt met een aangevinkte dag. Indien de aangevinkte dag overeenkomt met het ordernummer, alleen dan zal de kost/korting op de factuur gespecificeerd worden.

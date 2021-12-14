@@ -1,0 +1,1 @@
+Deze KwekerEan codes zijn specifiek voor de FloraXchange koppelingen. Hiermee wordt namelijk elke keer per kweker het aanbod opgehaald ipv alles in 1 keer wat geheugen problemen kan geven.

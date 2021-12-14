@@ -1,0 +1,1 @@
+Op basis van de samenstelling commerciele partij wordt voor de onderliggende logistieke partijen alleen de volle kolli getoond op de shop en bij een koop wordt aan de serverkant alleen volle kolli afgeboekt

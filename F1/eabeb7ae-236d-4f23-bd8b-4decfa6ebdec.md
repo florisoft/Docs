@@ -1,0 +1,1 @@
+Als een gebruiker de app downloadt dan staan deze gebruikersnaam en wachtwoord alvast ingevuld in het inlogscherm zodat hij/zij zo kan kijken wat je allemaal aanbiedt. Dit betekent echter wel dat iedereen die de app downloadt kan zien wat jullie aanbieden. Het kan dus ook zijn dat je deze liever allebei leeg laat zodat niemand kan inloggen zonder gebruikersnaam te hebben.

@@ -1,0 +1,1 @@
+Indicatie of klant Postgres heeft

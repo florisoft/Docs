@@ -1,0 +1,1 @@
+Deze wordt alleen (nog) gebruikt bij het verzenden van ORDERS berichten in het EKT systeem (FLNET Type 3) en vervangt/vult een S70 segment met de hier aangegeven waarde als de factuurregel deze handlingcode bevat.

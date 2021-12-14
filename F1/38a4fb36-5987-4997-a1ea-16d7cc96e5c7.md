@@ -1,0 +1,1 @@
+Zet een variabele klaar voor de boxverdeelsticker of er een foto gemaakt moet worden of niet

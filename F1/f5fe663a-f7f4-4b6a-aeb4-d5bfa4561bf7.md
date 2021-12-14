@@ -1,0 +1,1 @@
+Indien deze vink aan staat wordt de betreffende voorraad niet getoond/gebruikt in het pickorderscherm. Deze vink heeft alleen werking als de voorraden geselecteerd worden doormiddel van voorraad locatie (fs pickorder instelling VoorraadLocaties). 

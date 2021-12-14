@@ -1,0 +1,1 @@
+Indien de Server een bestellijst per dag systeem gebruikt en dit client systeem juist 1 bestellijst met meerdere orderdata, dan wordt met deze vink aan de bestelling autom. op de juiste dag gezet aan de serverkant.

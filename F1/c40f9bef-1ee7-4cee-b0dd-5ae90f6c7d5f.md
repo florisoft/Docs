@@ -1,0 +1,1 @@
+Dit is vooral gemaakt met oog op de Doorschuif-debiteur. Deze handling fungeert dan in principe als een groep handlings, gespecificeerd in de aangegeven Handling-set. Deze worden dan 1-voor-1 gehanteerd bij doorboeken, waarbij steeds de volgende Handling uit de Set wordt gebruikt om de Verdeling mee door te schuiven (onder deze Handling komt de verdeling dan ook in de box).

@@ -1,0 +1,1 @@
+Ingeleze minimale afname overnemen

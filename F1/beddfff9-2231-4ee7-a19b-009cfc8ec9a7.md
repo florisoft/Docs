@@ -1,0 +1,1 @@
+Bij het overhevelen/publiceren van bestellingen, een Log-tabel bijhouden voor elke overgehevelde regel. Het is aanbevolen om de 'Overhevel Log' tabel toe te voegen in de constanten aan de Tabellen Opschonen functionaliteit, en de Timer 'PARTIJLOGOPSCHONEN' regelmatig te activeren. Default = false

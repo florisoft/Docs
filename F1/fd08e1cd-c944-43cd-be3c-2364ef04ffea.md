@@ -1,0 +1,1 @@
+De standaard layout die gebruikt moet worden als je aanvoerbrief wilt printen.

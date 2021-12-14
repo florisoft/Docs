@@ -1,0 +1,1 @@
+De bijbehorende omschrijving van deze sorteringscode + sorteringswarde. Bijv. MPS B/C die hoort bij Sorteringscode S97 en Waarde 001

@@ -1,0 +1,1 @@
+Normaal als je een koop annuleert stuur je hetzelfde bericht terug als een koop doen maar dan met een markering dat deze geannuleerd moet worden. Koper It wil de koop niet met een annulering segment maar wil de koop met een 0 aantal krijgen zodat het geannuleerd word aan hun kant.

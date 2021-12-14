@@ -1,0 +1,1 @@
+Deze bestellijst wordt door middel van een timerproces automatisch geactualiseerd vanuit de partij informatie

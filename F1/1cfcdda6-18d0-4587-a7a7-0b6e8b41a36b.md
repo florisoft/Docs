@@ -1,0 +1,1 @@
+Hiermee sla je de wijzigingen op en sluit je het scherm.

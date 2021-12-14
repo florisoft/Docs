@@ -1,0 +1,1 @@
+Gebruiker mag enkel met klanten werken in dezelfde financiele unit, indien leeg mag de gebruiker met alle klanten werken. Daarnaast wordt deze eerste unit ook gebruikt in verschillende processen (zoals bijv. een e-mail onderwerp)

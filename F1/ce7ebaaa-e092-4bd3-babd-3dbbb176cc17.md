@@ -1,0 +1,1 @@
+Indien de foto id opgeslagen dient te worden, kan hier aangegeven voor wat voor soort product dit moet gebeuren. Standaard = Bloemen en planten.

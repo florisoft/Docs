@@ -1,0 +1,1 @@
+Bij een koop doen zal de prijs waarvoor is gekocht worden meegestuurd.

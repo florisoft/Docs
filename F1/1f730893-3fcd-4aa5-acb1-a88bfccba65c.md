@@ -1,0 +1,1 @@
+Bij het inlezen van deze partijen wordt de valuta opgegeven over de prijs berekend.

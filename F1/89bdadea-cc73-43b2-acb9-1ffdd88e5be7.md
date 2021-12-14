@@ -1,0 +1,1 @@
+Voor het importeren van betalingen van de boekhouding. Als betalingen geimporteerd worden op deze debiteur, maar je vult hier een andere debiteurcode in dan worden de betalingen op die debiteur geboekt. Zo kan je dus meerdere boekhouddebiteuren op 1 Florisoft debiteur laten binnenkomen.

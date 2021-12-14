@@ -1,0 +1,1 @@
+Dit vinkje aanzetten als nog niet alle partijen (met voldoende) aantallen op voorraad zijn. Als dit vinkje aan staat mogen partijen met een Max van 0 ook worden gebruikt, en worden deze ook opgeslagen. Verdelingen gemaakt op dit boeket kunnen pas worden doorgeboekt als dit vinkje weer uit is gezet. (Alle partijen met voldoende aantal dus wel aanwezig)

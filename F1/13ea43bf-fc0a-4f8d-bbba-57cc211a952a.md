@@ -1,0 +1,1 @@
+Mits gevuld, wordt deze importmap gehanteerd i.p.v. de Webservice URL. Voor webservices welke de XML file ophalen en asynchroon later verwerken.

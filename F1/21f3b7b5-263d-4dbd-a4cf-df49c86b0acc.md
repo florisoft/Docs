@@ -1,0 +1,1 @@
+Zoek een woord in de partij omschrijving. Gebruik een * voor of achter het woord om woorden te zoeken waarin het woord als gedeelte in voor komt. Voorbeeld: als je zoekt met "red*" vind je alle partijen met een omschrijving waarin een woord zit dat met "red" begint. Je kunt ook meerdere woorden en * gebruiken.

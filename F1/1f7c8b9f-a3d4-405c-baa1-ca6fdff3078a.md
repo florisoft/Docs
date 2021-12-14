@@ -1,0 +1,1 @@
+Partijen die ingelezen worden via E-Trade, wel of niet op de webshop weergeven van deze kweker.

@@ -1,0 +1,1 @@
+Bij het inlezen van partijen een VE die lokaal gewijzigd is niet overschrijven met de waarde die meekomt met het ophalen van de partijen

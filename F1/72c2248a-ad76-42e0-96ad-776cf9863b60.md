@@ -1,0 +1,1 @@
+Persoonsgegevens van bevoegd persoon voor het aanmaken van een account, deze persoon wordt gebeld/gemaild door Apple om te controleren of deze persoon bevoegd is voor het aanmaken van een bedrijfsaccount.

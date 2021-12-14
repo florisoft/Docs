@@ -1,0 +1,1 @@
+Wel of niet een opslag op de partij prijs per aantal m3 die deze inneemt in volume. Transportkosten.

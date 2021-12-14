@@ -1,0 +1,1 @@
+Dit zijn de instellingen voor deze voorraad voor elke weekdag

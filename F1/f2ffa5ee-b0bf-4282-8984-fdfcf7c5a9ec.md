@@ -1,0 +1,1 @@
+Veilingkosten wat van de nettowinst af gaat, die berekend worden a.d.h.v. het totaal inkoop bedrag. Berekening: (Inkoop / 100 * Veiling kosten in %).

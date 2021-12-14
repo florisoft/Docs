@@ -1,0 +1,1 @@
+Toont alle relatieve regels met de data welke van toepassing is in het grid, zond

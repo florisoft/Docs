@@ -1,0 +1,1 @@
+De prijs van dit fust. Deze prijs kan je ook laten berekenen aan je klant. Indien dit eenmalig fust is dan is dit de kostprijs. Is dit meermalig fust dan betreft het statiegeld.

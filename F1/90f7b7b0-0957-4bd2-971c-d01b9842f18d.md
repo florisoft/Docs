@@ -1,0 +1,1 @@
+De klantprijs kolom in het aanbiedingenscherm worden aangepast met behulp van deze ingevoerde staffel.

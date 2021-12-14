@@ -1,0 +1,1 @@
+Een percentage voor promotie heffing, dit percentage komt bovenop de kale prijs. 17,5% moet worden ingevuld als 17,5.

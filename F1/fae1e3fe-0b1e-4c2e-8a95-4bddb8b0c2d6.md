@@ -1,0 +1,1 @@
+Alles tonen ongeacht prijs (vierkantje), alleen geprijsde partijen tonen (vink aa

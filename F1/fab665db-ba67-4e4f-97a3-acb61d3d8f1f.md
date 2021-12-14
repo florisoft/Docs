@@ -1,0 +1,1 @@
+Werkt in combinatie met systeeminstelling TussenVoorrBestNrCheck en alleen als de partij is gekoppeld aan een bestelpartijnummer (Assortiment systeem)

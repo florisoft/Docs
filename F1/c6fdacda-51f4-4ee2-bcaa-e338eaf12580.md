@@ -1,0 +1,1 @@
+Dit is voor het Ctrl-B scherm. Als je de klant instelt op alleen partijen van vandaag dan kan je met deze waarde de partij van gisteren minder oud maken

@@ -1,0 +1,1 @@
+Betaling op dit dagboek boeken. Als leeg dan wordt MEMO gebruikt

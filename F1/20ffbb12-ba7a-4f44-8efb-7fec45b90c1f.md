@@ -1,0 +1,1 @@
+Als je via klokvoorverkoop - floramondo een koppeling inleest dan heeft dit een check op marketcode welke met deze optie niet uitgevoerd wordt.

@@ -1,0 +1,1 @@
+De kostenplaats van deze afdeling. Is voor de boekhouding en wordt alleen gebruikt als je naar de boekhouding doorboekt op basis van kostenplaatsen.

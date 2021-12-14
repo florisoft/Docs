@@ -1,0 +1,1 @@
+Dit fusttype is een gecombineerd fust. Hier kan je een fustcode intikken die weer in dit fusttype zit. Florisoft kan hier rekening mee houden met het printen van een factuur.

@@ -1,0 +1,1 @@
+Bij het maken van kwekerfoto's de kwekercode gebruiken voor de foto, indien niet gebruiken 0.

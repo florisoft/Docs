@@ -1,0 +1,1 @@
+Bij de timer partijen via bestel geen partijen aanmaken als het artikel nummer al

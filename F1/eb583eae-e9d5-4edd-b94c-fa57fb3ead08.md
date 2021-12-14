@@ -1,0 +1,1 @@
+Aantal euro wat van de netto winst af gaat, wordt berekend a.d.h.v. het totaal aantal stelen. Berekening: ( Totaal aantal stelen * Omzet vergoeding in euro).

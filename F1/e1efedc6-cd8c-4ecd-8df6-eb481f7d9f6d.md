@@ -1,0 +1,1 @@
+De verdelingen in deze voorraad worden zowel naar de bestellijst alsook naar de factuur doorgeboekt. Systeeminstelling FactEnBestNaarBandControle zorgt er tevens voor dat de factuurregels ook meteen naar de bandcontrole (als nog niet verwerkt) worden verplaatst.

@@ -1,0 +1,1 @@
+Met deze knop kan je per fust per sorteringskenmerk een opslag aangeven die over de prijs moet, maar ook eventueel die over de prijsgroepen berekend moet worden.

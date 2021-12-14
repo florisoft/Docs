@@ -1,0 +1,1 @@
+De klant moet eerst betalen alvorens de kopen kunnen worden bevestigd (dit benodigt een payment gateway), en de instelling WWBEVESTIG is eveneens benodigd.

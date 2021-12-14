@@ -1,0 +1,1 @@
+Indien de inh fust van de bestelling afwijkt van de inhoud kolli van de voorraad partij, dan wordt de inhfust van de bestelling rood gekleurd

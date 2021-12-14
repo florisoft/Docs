@@ -1,0 +1,1 @@
+Wordt gebruikt bij het berekenen van de kostprijs van verschepingen

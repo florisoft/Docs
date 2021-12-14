@@ -1,0 +1,1 @@
+Totaal aantal volgens de LOGPARTIJ tabel op basis van vpartijnummer

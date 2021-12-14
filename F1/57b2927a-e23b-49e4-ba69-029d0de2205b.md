@@ -1,0 +1,1 @@
+Deze vink zorgt ervoor dat de eigen factuurhistorie voor deze klant (mits ingelogd op de webshop - 2) zichtbaar wordt. Werkt in combinatie met de (Hoofd) - vink.

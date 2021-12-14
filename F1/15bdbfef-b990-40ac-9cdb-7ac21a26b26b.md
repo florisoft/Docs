@@ -1,0 +1,1 @@
+De productgroep zie je terug in de voorraadtree, maar ook op de webshop. 

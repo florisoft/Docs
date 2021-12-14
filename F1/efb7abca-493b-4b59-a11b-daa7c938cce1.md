@@ -1,0 +1,1 @@
+Email adres waar meldingen naar toe gestuurd moeten worden

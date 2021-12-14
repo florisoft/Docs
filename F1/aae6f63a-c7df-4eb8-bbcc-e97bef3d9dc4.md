@@ -1,0 +1,1 @@
+Met dit referentienummer en de debiteurcode wordt er een klantorder gezocht(of een nieuwe aangemaakt) en de aangemaakte verdeling op die klantorder gezet

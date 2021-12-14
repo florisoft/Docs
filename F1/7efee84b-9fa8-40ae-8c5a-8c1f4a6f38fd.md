@@ -1,0 +1,1 @@
+Een kooikar is een speciek type veilingkar wat eruit ziet als een kooi.

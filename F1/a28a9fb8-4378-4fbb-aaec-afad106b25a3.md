@@ -1,0 +1,1 @@
+Dit wordt standaard geregeld door de Webshop-setting BESTLISTWINKELWAGEN, maar kan per debiteur worden overridden.

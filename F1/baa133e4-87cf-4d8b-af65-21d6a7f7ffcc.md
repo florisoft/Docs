@@ -1,0 +1,1 @@
+Het standaard aantal voor de vast1 voor de orderkop die je weer terugziet in het transportplanning scherm en waarmee het transporttarief dan weer bepaald wordt. Bij de transporteur staat aangegeven wat het bedrag is van vast1

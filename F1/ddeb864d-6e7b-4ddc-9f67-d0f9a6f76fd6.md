@@ -1,0 +1,1 @@
+Systeeminstelling DoosvullenDebiteurFustBehoud moet hiervoor aan staan. Zorgt ervoor dat in Doosvullen de vink EM-Behouden standaard aan gaat wanneer er een factuur/doos voor deze debiteur begonnen/heropend wordt.

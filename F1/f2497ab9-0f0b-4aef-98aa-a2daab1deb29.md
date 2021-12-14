@@ -1,0 +1,1 @@
+Dit volgnummer wordt bepaald bij het afdrukken van een factuur voor deze debiteur, waardoor elke factuur een nieuw volgnummer krijgt. Mits dit nummer wordt gewijzigd, kunnen dubbele volgnummers ontstaan (dit is niet het factuurnummer, maar een afwijkende waarde welke op de factuur kan worden afgedrukt).

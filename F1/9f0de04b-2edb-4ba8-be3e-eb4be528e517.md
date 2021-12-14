@@ -1,0 +1,1 @@
+Het transportkosten bedrag wat standaard naar voren komt als je met de Florisoft Mobile een factuur voor deze klant maakt (ahf. van tot max bedrag)

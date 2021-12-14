@@ -1,0 +1,1 @@
+Het aantal dagen dat een keuring geldig is.

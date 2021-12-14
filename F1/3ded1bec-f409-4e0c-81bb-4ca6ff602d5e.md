@@ -1,0 +1,1 @@
+Bij het inlezen van EKT berichten kunnen de partij prijzen verhoogd worden met fustkosten (knop bij fust in de constanten). Als je deze vink aanzet dan worden partijen van deze artikelgroep niet opgehoogd met de fustkosten.

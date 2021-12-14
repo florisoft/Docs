@@ -1,0 +1,1 @@
+D.m.v. deze instelling zal de botanische naam voor bestaande artikelen iedere keer overschreven worden met de omschrijving vanuit de import. Het gaat hier om de botanische naam bij het artikel, de koppeling naar de botanische naam op basis van een uniek id valt hier niet onder.

@@ -1,0 +1,1 @@
+Per afdeling kan je hier instellingen aangeven waarvan de betekenis naast het grid staat.

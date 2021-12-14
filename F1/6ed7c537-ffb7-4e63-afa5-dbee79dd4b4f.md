@@ -1,0 +1,1 @@
+Standaard Min.Rest van de partij bij het aanmaken van nieuwe partijen

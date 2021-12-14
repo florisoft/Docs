@@ -1,0 +1,1 @@
+Als deze optie aan staat dan kunnen de combinaties artikelgroep en fustcode niet worden verkocht voor deze debiteur. De artikelgroep en fustcodes kunnen worden opgegeven middels de knop "Fust uitsluiten verkoop"  in het artikelgroep constante scherm.

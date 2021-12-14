@@ -1,0 +1,1 @@
+De VE die gevuld wordt als je een nieuwe partij invoert met dit artikelnummer.

@@ -1,0 +1,1 @@
+Dit zorgt ervoor dat de gebruiker zelf de stand van deze instellingen niet (meer) kan wijzigen. Dit is gemaakt in combinatie met de instelling om per debiteur in te stellen wat de default stand is van deze vinkjes.

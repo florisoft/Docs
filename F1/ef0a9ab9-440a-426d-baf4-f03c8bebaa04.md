@@ -1,0 +1,1 @@
+Bij gebruik van de functionaliteit: verdelingen die volledig gepicked moeten zijn voordat ze doorgeboekt mogen worden, zal met deze vink ook gecontroleerd worden of de klant nog online is. Indien de klant NIET meer online is, dan zullen de verdelingen direct doorgeboekt worden, ongeacht of de pickorder gelopen is of niet. 

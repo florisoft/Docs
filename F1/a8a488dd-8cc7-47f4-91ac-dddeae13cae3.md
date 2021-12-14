@@ -1,0 +1,1 @@
+Dit zorgt ervoor, dat boxverdelingen met een niet door de boxpartij.inhoudkolli deelbaar aantal hebben, niet worden geprint in de box (dit wordt getoond in de Box Monitor in de Niet Printen - Reden kolom)

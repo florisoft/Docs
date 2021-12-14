@@ -1,0 +1,1 @@
+Hier kan een combinatie opgegeven worden tussen de voorraad en financiele administratie. Bij de functie Facturen splitsen op voorraad, krijgt de nieuwe factuur het opgegeven Naar Finadmin als financiele administratie.

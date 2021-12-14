@@ -1,0 +1,1 @@
+De E omschrijving van deze artikelgroep. Deze kan je terug zien op de webshop. Vaak wordt E gebruikt voor Engels, maar de invoer is vrij, dus Deens of Italiaans mag ook.

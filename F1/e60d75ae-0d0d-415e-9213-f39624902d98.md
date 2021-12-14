@@ -1,0 +1,1 @@
+Deze kleur wordt vooral gehanteerd voor zichtbaarheid in de Eindcontrole (PDA).
