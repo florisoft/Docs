@@ -1,0 +1,1 @@
+Wijzigen van de verwachte leverdatum nadat de partijen reeds aangemaakt zijn zal deze niet wijzigen voor de bestaande partijen. De hier ingestelde verwachte leverdatum (EstDelDat) wordt gehanteerd bij aanmaken van partijen (d.m.v. invoeren van aanvoer aantal).
