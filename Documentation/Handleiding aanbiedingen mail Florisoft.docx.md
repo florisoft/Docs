@@ -32,27 +32,27 @@ voor stap uitgelegd.
 1.  Klik op de knop Aanbiedingen in de Florisoft Navigator (hierna te
     noemen Navigator).
 
-<img src=".Handleiding aanbiedingen mail Florisoft.docx\media\image2.png" style="width:3.29213in;height:2.13572in" />
+<img src="media\image2.png" style="width:3.29213in;height:2.13572in" />
 
 1.  Het volgende venster opent. Klik hier op de knop ‘Opvragen’.
 
-> <img src=".Handleiding aanbiedingen mail Florisoft.docx\media\image3.png" style="width:6.66323in;height:4.55208in" />
+> <img src="media\image3.png" style="width:6.66323in;height:4.55208in" />
 
 1.  Het venster Opvragen / wijzigen Aanbieding verschijnt. Kies een
     debiteur in het uitklapmenu Debiteurnr.
 
-<img src=".Handleiding aanbiedingen mail Florisoft.docx\media\image4.png" style="width:3.54216in;height:6.41756in" />
+<img src="media\image4.png" style="width:3.54216in;height:6.41756in" />
 
 1.  Wanneer de gekozen debiteur nog geen lijst van aanbiedingen heeft,
     zie je het volgende venster:
 
-<img src=".Handleiding aanbiedingen mail Florisoft.docx\media\image5.png" style="width:4.0839in;height:1.6669in" />
+<img src="media\image5.png" style="width:4.0839in;height:1.6669in" />
 
 Klik op ‘Ja’ om een nieuwe aanbiedingslijst te maken.
 
 1.  Nu verschijnt het venster ‘Aanbieding (Debnr:X, Order:) R9 ()
 
-<img src=".Handleiding aanbiedingen mail Florisoft.docx\media\image6.png" style="width:6.53125in;height:4.32151in" />
+<img src="media\image6.png" style="width:6.53125in;height:4.32151in" />
 
 > In de titelbalk van dit venster is te zien voor welke debiteur de
 > aanbieding gemaakt wordt. In dit geval is dat de debiteur met als
@@ -69,13 +69,13 @@ Klik vervolgens op de knop ‘Toevoegen’.
 
 -   Televerkoop: artikelen selecteren uit voorraden beschikbaar webshop.
 
-<img src=".Handleiding aanbiedingen mail Florisoft.docx\media\image7.png" style="width:3.77136in;height:1.63565in" />
+<img src="media\image7.png" style="width:3.77136in;height:1.63565in" />
 
 In dit geval is gekozen voor Voorraad. Klik vervolgens op ‘Ok’.
 
 1.  Het volgende venster opent.
 
-<img src=".Handleiding aanbiedingen mail Florisoft.docx\media\image8.png" style="width:6.71304in;height:3.63618in" />
+<img src="media\image8.png" style="width:6.71304in;height:3.63618in" />
 
 Voer de volgende stappen uit om meerdere niet opvolgende producten op te
 nemen in de aanbiedingslijst:
@@ -110,12 +110,12 @@ Om opeenvolgende producten op te nemen, voer de volgende stappen uit:
 1.  Sluit de voorraad na het selecteren van de producten. Nu verschijnen
     de geselecteerde producten in het volgende venster.
 
-<img src=".Handleiding aanbiedingen mail Florisoft.docx\media\image9.png" style="width:6.5566in;height:2.14171in" />
+<img src="media\image9.png" style="width:6.5566in;height:2.14171in" />
 
 1.  Selecteer de eerder aangemaakte aanbieding in het venster
     ‘Aanbiedingen’ en klik op ‘Voorbeeld’.
 
-<img src=".Handleiding aanbiedingen mail Florisoft.docx\media\image10.png" style="width:6.54633in;height:2.85849in" />
+<img src="media\image10.png" style="width:6.54633in;height:2.85849in" />
 
 > Selecteer in het venster “Kies Template” een template. De template
 > bepaalt de uiteindelijke vormgeving van de aanbieding. Per aanbieding
@@ -132,7 +132,7 @@ Om opeenvolgende producten op te nemen, voer de volgende stappen uit:
 1.  Na een klik op “Ok” wordt er een browservenster geopend met een
     voorbeeld.
 
-<img src=".Handleiding aanbiedingen mail Florisoft.docx\media\image11.png" style="width:3.74783in;height:4.44457in" />
+<img src="media\image11.png" style="width:3.74783in;height:4.44457in" />
 
 Wanneer het voorbeeld naar wens is, kan de aanbieding verzonden of geprint worden.
 
@@ -148,4 +148,4 @@ debiteur in het venster “Aanbiedingen” en selecteer 'Email webpage'.
 Kies in het vervolgvenster opnieuw de gewenste layout en klik vervolgens
 op “Ok” om de aanbieding te versturen.
 
-<img src=".Handleiding aanbiedingen mail Florisoft.docx\media\image12.png" style="width:6.72174in;height:4.59205in" />
+<img src="media\image12.png" style="width:6.72174in;height:4.59205in" />
