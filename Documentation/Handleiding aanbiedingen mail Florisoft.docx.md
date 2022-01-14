@@ -136,11 +136,9 @@ Om opeenvolgende producten op te nemen, voer de volgende stappen uit:
 
 Wanneer het voorbeeld naar wens is, kan de aanbieding verzonden of geprint worden.
 
-<img src=".Manual Offers Florisoft/media/image12.png" />
 
 Selecteer de juiste instellingen, en druk op OK om te printen!
 
-<img src=".Manual Offers Florisoft/media/image13.png" />
 
 Om de aanbieding te verzenden via e-mail, kies de betreffende
 debiteur in het venster “Aanbiedingen” en selecteer 'Email webpage'.
