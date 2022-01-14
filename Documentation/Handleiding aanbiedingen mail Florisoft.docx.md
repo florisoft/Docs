@@ -1,4 +1,4 @@
-> <img src="\media\image1.png" style="width:3.45972in;height:1.26389in" />
+> <img src="media\image1.png" style="width:3.45972in;height:1.26389in" />
 
 # **<u>Inhoudsopgave</u>**
 
