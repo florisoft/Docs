@@ -1,0 +1,1 @@
+Indicatie welke aangeeft bij het printen van een sticker tijdens het binnenmelden van een partij in de box module of er wel of geen foto gemaakt moet worden van de partij. Deze setting kan ook volgens de op het artikelnummer ingestelde artikelgroep bepaald worden.
