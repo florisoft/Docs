@@ -1,0 +1,1 @@
+[Voorraad - Verdeelscherm] Vanaf nu is het mogelijk bij het aanmaken van een nieuwe verdeling de vertrekdag waarde over te nemen als de verdeeldatum. Hiervoor dient de vertrekdag vink en de nieuwe systeeminstelling VerdVertrekDatumAlsVerdDatum aan te staan. (205159)
