@@ -1,0 +1,1 @@
+[Transportplanning] EMailen Naar Transporteur - Voor het e-mail onderwerp in de systeem instelling 'EmailSubTranspNaarTransporteur' zijn nu 2 macro's in te stellen die gebruikt kunnen worden.  Dit zijn {DATUM} en {NAAM}. De datum van vandaag en de transporteur naam. De macro's moeten in hoofdletters, anders worden ze niet vervangen met de waarden. (108892)
