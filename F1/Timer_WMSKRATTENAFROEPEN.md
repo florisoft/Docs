@@ -1,0 +1,1 @@
+Timer proces voor het afroepen van nieuwe kratten voor een WMS Kratten systeem waarbij kratten over een lopende band naar de verschillende pickzones gaan waar de pickorders in de krat gelegd kunnen worden
