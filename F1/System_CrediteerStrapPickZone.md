@@ -1,0 +1,1 @@
+WMS Zone letter waar gestrapt moet worden als de verdeelcontrole wordt gecrediteerd en de krat is inmiddels al langs alle andere zones geweest waar die moest zijn. De krat zal dan naar deze zone gaan om alleen gestrapt te worden.
