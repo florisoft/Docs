@@ -1,0 +1,1 @@
+[Fust inname/uitgifte] Vanaf nu is het mogelijk bij het invoeren van een debiteur in het fust inname uitgave scherm om te controleren of deze debiteur een overgeven/overnemen en/of connect klant is, zo ja dan wordt deze debiteur niet gehanteerd en een melding vertoond. Hiervoor dient nieuwe systeeminstelling FustAdminDebVerrekValidatie aangezet te worden. (202476)
