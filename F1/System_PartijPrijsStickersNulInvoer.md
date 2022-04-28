@@ -1,0 +1,1 @@
+[Voorraad - Prijsstickers] Vanaf nu is het mogelijk bij het printen van de prijsstickers in de voorraad om een 0 aantal op te kunnen geven. Dit is nu mogelijk door nieuwe systeeminstelling PartijPrijsStickersNulInvoer aan te zetten, deze is ook instelbaar via de R-Muisknop settings behorende bij het 'Prijsstickers -> Afdrukken'  menu-item. (202711)
