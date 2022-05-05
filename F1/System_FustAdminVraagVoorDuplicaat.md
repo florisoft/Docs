@@ -1,0 +1,1 @@
+In fusten administratie wanneer er een fust toegevoegd wordt zal wanneer deze instelling aan staat een controle gedaan worden of de ingevulde fustcode al in de lijst staan, en wanneer dat zo is zal er door de gebruiker bevestigd moeten worden dat de regel toegevoegd moet worden. Default = false
