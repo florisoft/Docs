@@ -1,0 +1,1 @@
+[Bestellijst - Importeren per debiteur] Bij het importeren per debiteur is het nu mogelijk om de gekozen orderdatum altijd als leidende orderdatum en ordernummer voor de aan te maken bestelling te hanteren. Hiervoor is gebruikersinstelling DatumKeuzeOrddatBijImportPrDeb toegevoegd. Deze zal de eventuele waardes ingevuld op de csv en de sjabloon altijd overrulen. (346 / 207040)
