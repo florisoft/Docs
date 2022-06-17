@@ -1,0 +1,1 @@
+[Transportplanning - Eindtijd] Systeeminstelling TransprtPlnEindtijdVDagKleur als kleurkiezer toegevoegd, hier kan een kleur in opgegeven worden zodat snel zichtbaar is dat de weergegeven tijd een eindtijd van gisteren betreft. (2677 / 207012)
