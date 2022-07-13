@@ -1,0 +1,1 @@
+Bij het doorboeken van verdelingen naar een andere voorraad, of bij het aanmaken van de nieuwe partij o.b.v de oorspronkelijke externe partij, altijd de cvar15 scancode laten bepalen aan de hand van de interne barcode in plaats van de Vpartij. Default = false
