@@ -1,0 +1,1 @@
+[Box - Monitor] Bij het invoeren van een ordernummer filter kan vanaf nu ook op delen van het ordernummer van de boxverdeling / pickorders gefiltered worden. Hiervoor dient gebruikersinstelling BoxMonitorOrderNrGedeeltelijk aangezet te worden. (367 / 207043)
