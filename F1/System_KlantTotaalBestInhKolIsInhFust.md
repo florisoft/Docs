@@ -1,0 +1,1 @@
+[Overzicht per Klant - Paklijst] Bij het printen van de paklijst wordt i.c.m nieuwe systeeminstelling KlantTotaalBestInhKolIsInhFust het inhKolli veld van de paklijst.dbf altijd gevuld met de bestelling.inhfust mitst deze een waarde bevat. (205815)
