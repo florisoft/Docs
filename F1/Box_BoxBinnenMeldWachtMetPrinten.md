@@ -1,0 +1,1 @@
+[Box] Bij het binnenmelden van partijen kan vanaf nu standaard het 'Wachten met printen' gehanteerd worden bij het openen van de box, het uitvoeren van een scan en het printen vanuit de monitor. Hiervoor is nieuwe FSBOX setting BoxBinnenMeldWachtMetPrinten toegevoegd. (215813)
