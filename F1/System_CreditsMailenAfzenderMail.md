@@ -1,0 +1,1 @@
+[Timer - Creditsmailen] Het is vanaf nu ook mogelijk een afwijkende afzender emailadres in te voeren voor het versturen van credit mails via het timerproces. Hiervoor is nieuwe systeeminstelling CreditsMailenAfzenderMail gemaakt welke ook bij de timersettings is in te stellen, mitst leeg wordt het standaard adres gebruikt. (2724 / 212805)
