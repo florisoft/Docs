@@ -1,0 +1,1 @@
+Mitst hier een pad is opgegeven wordt voor het TMS systeem voor Talis een XML bericht opgesteld van de via de douanefacturen defintief gemelde voertuig(en) en ingedeelde orderregels en vervoglens naar het opgegeven pad weggeschreven.
