@@ -1,0 +1,1 @@
+Bij het genereren van een Aanbieding URL, via de 'Kopieer aanbieding url' optie op een regel in het grid van het aanbiedingen scherm. Is het vanaf nu mogelijk de url aan te laten vullen met het ActiveEmailLogin=true segment.
