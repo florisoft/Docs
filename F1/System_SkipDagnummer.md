@@ -1,0 +1,1 @@
+Bij het scannen van een barcode in de box wordt er gecontroleerd op meerdere dagen in plaats van alleen de dag in de barcode. De dag in de barcode wordt een voor eenverlaagd en dan verhoogd met 1 tot het zeven dagen ervoor en erna heeft gecontroleerd.
