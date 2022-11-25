@@ -1,0 +1,1 @@
+Bij het bevestigen of versturen van een bestelling controleren of de ingelogde gebruiker op alle regels als inkoper staat. In de gebruikersinstelling 'InkoperCode' staat de code waarop bij deze controle op gecontroleerd wordt.
