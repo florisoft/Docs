@@ -1,0 +1,1 @@
+Voegt een overlay op de hudige foto variant toe. Hierbij selecteer je een foto die je als overlay wilt, selecteert hierin een regio. Deze regio zal dan in de rechtsonderhoek van de hudige afbeelding worden geplaatst, zodat deze ongeveer 8% van de afbeelding in beslag neemt. 
