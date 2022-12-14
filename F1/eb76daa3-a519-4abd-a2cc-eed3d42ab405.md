@@ -1,1 +1,1 @@
-De locatie van het afbeeldingsbestand. Dit kan een (locaal of remote) bestandspad zijn of een url.
+De locatie van het afbeeldingsbestand. Dit kan een (lokaal of remote) bestandspad zijn of een url.
