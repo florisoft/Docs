@@ -1,0 +1,1 @@
+Als deze systeeminstelling aanstaat wordt bij het crediteren in de factuur historie (en het aanmaken van accordeer credit regels), bij het kiezen van creditkeuze 'Crediteren naar leverancier' er een e-mailbericht voor naar de leverancier toe opgesteld en verstuurd.
