@@ -1,0 +1,1 @@
+Geef hier de fustcodes in op die tijdens het factuur printen en fustverwerken i.c.m setting OrderkopFustverwerkLadingdragr vervolgens de fustregels met deze ladingdrager fustcodes op een aparte fust ladingdrager factuur zetten
