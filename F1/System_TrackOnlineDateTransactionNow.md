@@ -1,0 +1,1 @@
+Bij het exporteren van FUSTUIT elementen naar trackonline, de DateTransaction en DateTransactionCounterpart velden van de transactie vullen met het huidige datum+tijdstip van exporteren zodat deze geen lege tijdstip meer bevat.
