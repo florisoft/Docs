@@ -4,8 +4,8 @@ Florisoft .Net EKT Eindprijzen Client
 
 **NL**
 
-Beheert EKT-eindklantprijzen aan clientzijde.
+Ontvangt eindklantprijzen via EKT en past deze aan clientzijde toe op het gekoppelde assortiment.
 
 **EN**
 
-Manages EKT end-customer prices on the client side.
+Receives end-customer prices through EKT and applies them to the connected assortment on the client side.

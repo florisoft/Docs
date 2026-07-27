@@ -4,11 +4,11 @@ Database Task Manager
 
 **NL**
 
-Beheert achtergrondtaken en geplande processen.
+Plant en bewaakt geautomatiseerde database- en beheertaken en registreert het resultaat van iedere uitvoering.
 
 **EN**
 
-Manages background tasks and scheduled processes.
+Schedules and monitors automated database and management tasks and records the result of each run.
 
 **Handleiding**
 

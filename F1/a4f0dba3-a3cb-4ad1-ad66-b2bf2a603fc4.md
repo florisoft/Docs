@@ -4,8 +4,8 @@ Florisoft .Net Accorderen
 
 **NL**
 
-Ondersteunt goedkeuring van orders en kredietlimieten.
+Laat bevoegde gebruikers orders en kredietafwijkingen beoordelen en goedkeuren voordat verdere verwerking plaatsvindt.
 
 **EN**
 
-Supports approval workflows for orders and credit limits.
+Allows authorized users to review and approve orders and credit exceptions before further processing.

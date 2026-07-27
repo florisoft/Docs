@@ -4,11 +4,11 @@ Florisoft .Net Commerciele voorraad partijen
 
 **NL**
 
-Beheert commerciële voorraadpartijen en parcels.
+Beheert commerciÃ«le voorraadpartijen die los van de fysieke voorraad voor verkoop en planning worden gebruikt.
 
 **EN**
 
-Manages commercial stock lots and parcels.
+Manages commercial stock lots used for sales and planning independently of the physical stock.
 
 **Handleiding**
 

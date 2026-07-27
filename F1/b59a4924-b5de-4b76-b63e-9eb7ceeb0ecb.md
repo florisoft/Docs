@@ -4,8 +4,8 @@ Florisoft .Net Client Bestel Component
 
 **NL**
 
-Levert orderlijstdata aan clientapplicaties.
+Ontvangt orderlijsten van een externe server en maakt deze beschikbaar in de Florisoft-clientomgeving.
 
 **EN**
 
-Provides order list data to client applications.
+Receives order lists from an external server and makes them available in the Florisoft client environment.

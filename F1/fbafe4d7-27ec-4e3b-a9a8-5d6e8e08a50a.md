@@ -4,11 +4,11 @@ Florisoft .Net Client Voorraad Component
 
 **NL**
 
-Levert voorraaddata aan clientapplicaties.
+Ontvangt voorraad van een externe Florisoft-server en maakt deze beschikbaar voor verkoop in de clientomgeving.
 
 **EN**
 
-Provides stock data to client applications.
+Receives stock from an external Florisoft server and makes it available for sales in the client environment.
 
 **Handleiding**
 

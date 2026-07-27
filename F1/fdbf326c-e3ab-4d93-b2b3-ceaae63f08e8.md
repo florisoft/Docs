@@ -4,8 +4,8 @@ Florisoft .Net FloriShop addon My Style \Florisoft .Net FloriShop addon My Style
 
 **NL**
 
-Biedt een gepersonaliseerde Florishop-ervaring.
+Laat klanten de presentatie en instellingen van hun Florishop-omgeving binnen toegestane grenzen personaliseren.
 
 **EN**
 
-Provides a personalized Florishop experience.
+Allows customers to personalize the presentation and settings of their Florishop environment within permitted limits.
