@@ -12,4 +12,4 @@ Receives stock from an external Florisoft server and makes it available for sale
 
 **Handleiding**
 
-- [Bekijk handleiding](https://github.com/florisoft/User.Manuals/tree/main/E-COMMERCE/Client%20Stock%20Component%20%28M41%29)
+- [Manual](https://github.com/florisoft/User.Manuals/tree/main/E-COMMERCE/Client%20Stock%20Component%20%28M41%29)
